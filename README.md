@@ -29,3 +29,4 @@ Mars Grocers is a comprehensive shopping website developed by a team of six. The
 - Navigate to the home page to browse products.
 - Add products to the cart and proceed to checkout.
 - Manage user profiles and order history.
+- Access the hidden admin panel for administrative tasks (e.g., managing products, orders, and users).
